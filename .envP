@@ -1,0 +1,6 @@
+//Here you use the apiKey whit a mapbox and openwheather.
+//Both apikey free, but needed register.
+//rename this file to .env
+
+//MAPBOX_KEY=
+//OPENWEATHER_KEY=
